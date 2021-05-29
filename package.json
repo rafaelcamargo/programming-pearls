@@ -1,0 +1,19 @@
+{
+  "name": "programming-pearls",
+  "version": "0.1.0",
+  "description": "Programming Pearls Challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "programming",
+    "pearls",
+    "challenge"
+  ],
+  "author": "Rafael Camargo <hello@rafaelcamargo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.2"
+  }
+}

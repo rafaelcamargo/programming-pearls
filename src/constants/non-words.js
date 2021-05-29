@@ -1,0 +1,19 @@
+module.exports = [
+  'the',
+  'and',
+  'of',
+  'to',
+  'a',
+  'i',
+  'it',
+  'in',
+  'or',
+  'is',
+  'd',
+  's',
+  'as',
+  'so',
+  'but',
+  'be',
+  'on'
+]
